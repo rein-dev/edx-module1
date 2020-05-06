@@ -1,7 +1,6 @@
 
 /*  __________________________________________
 
-    Edx; Intro to Node; Module 1 Assignment
     Written in Visual Studio Code
     Date:                   26/04/2020
     Name:                   Reinhardt Schoeman
